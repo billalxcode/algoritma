@@ -5,7 +5,7 @@ Repostory ini berisi beberapa algoritma python dan flowchart yang terinspirasi d
 ## Bahasa yang tersedia
 
 - Python
-- C++
+- C++ (segera)
 - PHP (segera)
 - Java (segera)
 - C# (segera)
