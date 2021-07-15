@@ -17,3 +17,6 @@ File ini berisi tentang cara berkontribusi dan pengguna yang sudah berkontribusi
 2. Pihak kontribusi boleh mengubah algoritma yang sudah ada tetapi tidak boleh mengubah nama atau pembuat yang terdahulu
 3. Pihak kontribusi harus mencantumkan nama anda di file LIST.md
 4. Pihak kontribusi tidak boleh menghapus algoritma yang sudah ada
+5. Repo ini berisi kode terbuka, dilarang keras menambahkan kode yang sudah di compile kecuali kode yang belum di compile.
+
+Enjoyy....
