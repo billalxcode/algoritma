@@ -25,6 +25,7 @@ Repostory ini berisi beberapa algoritma python dan flowchart yang terinspirasi d
 - [x] Menghitung nilai akhir
 - [x] Cek tahun kabisat
 - [x] Menghitung keliling persegi panjang
+- [x] File Filter berdasarkan extension
 
 ## Kontribusi
 
