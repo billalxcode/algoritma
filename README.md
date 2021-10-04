@@ -30,4 +30,10 @@ Repostory ini berisi beberapa algoritma python dan flowchart yang terinspirasi d
 
 Jika anda ingin menambahkan beberapa algoritma atau beberapa bahasa pemrogramman silahkan cek file KONTRIBUSI.md untuk berkontribusi.
 
+
+# Kontributor List
+<a href="https://github.com/billalxcode/algoritma/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=billalxcode/algoritma" />
+</a>
+
 Enjoyyy....
