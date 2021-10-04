@@ -24,6 +24,7 @@ Repostory ini berisi beberapa algoritma python dan flowchart yang terinspirasi d
 - [x] Menghitung umur
 - [x] Menghitung nilai akhir
 - [x] Cek tahun kabisat
+- [x] Menghitung volume kubus
 
 ## Kontribusi
 
