@@ -1,6 +1,6 @@
 /**
  * Cari rata-rata nilai
- * @params Nilai Array
+ * @params {nilai} Array
  **/
 
 /*
