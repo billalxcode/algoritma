@@ -1,6 +1,5 @@
 """
 Copyright (c) 2021 Billal Fauzan
-
 Created: 15 Juli 2021
 """
 import random
