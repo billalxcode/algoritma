@@ -7,5 +7,6 @@
 
 ## Kontributor
 - Billal Fauzan [billalxcode](https://github.com/billalxcode)
+- Rafly Dipoe Avianto [rafly7](https://github.com/rafly7)
 
 Ayooo berkontribusi!!!!!
