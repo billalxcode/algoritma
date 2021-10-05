@@ -28,6 +28,7 @@ Repostory ini berisi beberapa algoritma python dan flowchart yang terinspirasi d
 - [x] Menghitung keliling persegi panjang
 - [x] Mencari nilai rata-rata
 - [x] Menghitung volume kubus
+- [x] File Filter berdasarkan extension
 
 ## Kontribusi
 
