@@ -5,6 +5,7 @@ Repostory ini berisi beberapa algoritma python dan flowchart yang terinspirasi d
 ## Bahasa yang tersedia
 
 - Python
+- Javascript
 - C++ (segera)
 - PHP (segera)
 - Java (segera)
@@ -25,6 +26,7 @@ Repostory ini berisi beberapa algoritma python dan flowchart yang terinspirasi d
 - [x] Menghitung nilai akhir
 - [x] Cek tahun kabisat
 - [x] Menghitung keliling persegi panjang
+- [x] Mencari nilai rata-rata
 
 ## Kontribusi
 
