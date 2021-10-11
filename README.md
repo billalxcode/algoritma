@@ -6,6 +6,7 @@ Repostory ini berisi beberapa algoritma python dan flowchart yang terinspirasi d
 
 - Python
 - Javascript
+- lua
 - C++ (segera)
 - PHP (segera)
 - Java (segera)
