@@ -30,6 +30,7 @@ Repostory ini berisi beberapa algoritma python dan flowchart yang terinspirasi d
 - [x] Mencari nilai rata-rata
 - [x] Menghitung volume kubus
 - [x] File Filter berdasarkan extension
+- [x] Menghitung deret Fibonacci
 
 ## Kontribusi
 
