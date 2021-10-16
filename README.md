@@ -27,6 +27,7 @@ Repostory ini berisi beberapa algoritma python dan flowchart yang terinspirasi d
 - [x] Cek tahun kabisat
 - [x] Menghitung keliling persegi panjang
 - [x] Mencari nilai rata-rata
+- [x] Algoritma Dikson Barang
 
 ## Kontribusi
 
