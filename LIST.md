@@ -10,5 +10,6 @@
 - Ibnu Syawal [ibnusyawall](https://github.com/ibnusyawall)
 - Rafly Dipoe Avianto [rafly7](https://github.com/rafly7)
 - M. Ardiansyah Pratama [ardiansyahp8](https://github.com/ardiansyahp8)
+- Salis Mazaya [salismazaya](https://github.com/salismazaya)
 
 Ayooo berkontribusi!!!!!
