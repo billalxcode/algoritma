@@ -7,6 +7,5 @@
 
 ## Kontributor
 - Billal Fauzan [billalxcode](https://github.com/billalxcode)
-- Salis Mazaya [salismazaya](https://github.com/salismazaya)
 
 Ayooo berkontribusi!!!!!
